@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-icp0ch.salamcuanwin.sbs/sitemap.xml
